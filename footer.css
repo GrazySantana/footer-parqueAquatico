@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 
 
 footer {
@@ -102,24 +101,4 @@ footer img {
 .sociais {
     margin-top: 30px;
 }
-=======
-.custom-shape-divider-top-1688043201 { 
-    posição: absoluto; 
-    superior: 0; 
-    esquerda: 50%; 
-    largura: 100%; 
-    estouro: oculto; 
-    altura da linha: 0; 
-} 
-
-.custom-shape-divider-top-1688043201 svg { 
-    posição: relativa; 
-    exibição: bloco; 
-    largura: calc(169% + 1,3px); 
-    altura: 272px; 
-} 
-
-.custom-shape-divider-top-1688043201 .shape-fill { 
-    fill:#FFFFFF; 
->>>>>>> Stashed changes
 }
